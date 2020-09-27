@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.xuye.site/2020/09/27/my-first-blog/</loc>
+    
+    <lastmod>2020-09-27</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://blog.xuye.site/2020/09/27/hello-world/</loc>
     
     <lastmod>2020-09-27</lastmod>

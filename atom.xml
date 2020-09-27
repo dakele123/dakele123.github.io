@@ -6,15 +6,32 @@
   <link href="http://blog.xuye.site/atom.xml" rel="self"/>
   
   <link href="http://blog.xuye.site/"/>
-  <updated>2020-09-27T05:53:15.653Z</updated>
+  <updated>2020-09-27T06:27:01.844Z</updated>
   <id>http://blog.xuye.site/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>xuye</name>
     
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my-first-blog</title>
+    <link href="http://blog.xuye.site/2020/09/27/my-first-blog/"/>
+    <id>http://blog.xuye.site/2020/09/27/my-first-blog/</id>
+    <published>2020-09-27T06:24:01.000Z</published>
+    <updated>2020-09-27T06:27:01.844Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="在github上创建自己的个人博客"><a href="#在github上创建自己的个人博客" class="headerlink" title="在github上创建自己的个人博客"></a>在github上创建自己的个人博客</h2><a id="more"></a><p>你好，hi</p>]]></content>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;在github上创建自己的个人博客&quot;&gt;&lt;a href=&quot;#在github上创建自己的个人博客&quot; class=&quot;headerlink&quot; title=&quot;在github上创建自己的个人博客&quot;&gt;&lt;/a&gt;在github上创建自己的个人博客&lt;/h2&gt;</summary>
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
